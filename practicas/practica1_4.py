@@ -1,4 +1,4 @@
-#### Codigo de Arduino en Python con Tinkercad
+# Codigo de Arduino en Python con Tinkercad
 
 # int Pin_A = 2;  
 # int Pin_B = 3;  
