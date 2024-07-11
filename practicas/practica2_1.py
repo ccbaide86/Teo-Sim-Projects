@@ -1,4 +1,4 @@
-## Figuras Geometricas con RoboDK
+# Figuras Geometricas con RoboDK
 
 from robodk.robolink import *  # RoboDK API
 from robodk.robomath import *  # Robot toolbox
